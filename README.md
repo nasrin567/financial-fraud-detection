@@ -7,7 +7,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter)
 
-> A machine learning-based fraud detection system that analyzes financial transactions and provides an interactive risk prediction dashboard using Streamlit.
+ A machine learning-based fraud detection system that analyzes financial transactions and provides an interactive risk prediction dashboard using Streamlit.
 
 
 ---
