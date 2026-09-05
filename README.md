@@ -12,15 +12,6 @@ A machine learning-based application for detecting potentially fraudulent financ
 
 The project covers the complete machine learning workflow, including data understanding, data cleaning, exploratory data analysis (EDA), feature engineering, preprocessing, model training, model evaluation, and interactive deployment.
 
-##  🚀 Dashboard Demo
-
-### 🌐 Live Dashboard
-
-<p align="center">
-  <a href="https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard">
-  </a>
-</p>
 
 ## 📌 Project Overview
 
@@ -35,6 +26,17 @@ The trained model is integrated into a Streamlit dashboard where users can enter
 
 ---
 
+##  🚀 Dashboard Demo
+
+### 🌐 Live Dashboard
+
+<p align="center">
+  <a href="https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard">
+  </a>
+</p>
+
+---
 ## 🎯 Project Objectives
 
 - Analyze financial transaction data and identify patterns related to fraudulent activity.
