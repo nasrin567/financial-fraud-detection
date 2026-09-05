@@ -1,5 +1,5 @@
 
-## 2. 🚀 Dashboard Demo
+##  🚀 Dashboard Demo
 
 ### 🌐 Live Dashboard
 
@@ -23,16 +23,15 @@ A machine learning-based application for detecting potentially fraudulent financ
 
 The project covers the complete machine learning workflow, including data understanding, data cleaning, exploratory data analysis (EDA), feature engineering, preprocessing, model training, model evaluation, and interactive deployment.
 
+##  🚀 Dashboard Demo
 
-## 🌐 Live Demo
+### 🌐 Live Dashboard
 
-### 🚀 Streamlit Application
-
-**Live App:** https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/
-https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/
-
-> The live application is deployed using Streamlit Community Cloud.
----
+<p align="center">
+  <a href="https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard">
+  </a>
+</p>
 
 ## 📌 Project Overview
 
