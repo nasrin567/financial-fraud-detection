@@ -276,8 +276,6 @@ The Streamlit application provides a confusion matrix showing:
 
 This helps analyze how the model classifies legitimate and fraudulent transactions.
 
-> **Note:** The current model evaluation shows limited predictive performance, with ROC-AUC close to 0.50. The project is intended as a machine learning and application-development project rather than a production-ready fraud detection system. Further model improvement, feature refinement, data quality improvements, and tuning would be required for real-world deployment.
-
 ---
 
 ## 🖥️ Streamlit Application
@@ -385,8 +383,6 @@ financial-fraud-detection/
     ├── Model Training
     └── Model Evaluation
 ```
-
-> Notebook filenames may vary depending on the final repository version.
 
 ---
 
