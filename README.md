@@ -572,11 +572,11 @@ Potential improvements include:
 
 ## 👥 Contributors
 
-| Contributor | Role |
-|---|---|
-| Nasrin Khatoon | Streamlit application, dashboard integration, deployment, and documentation |
-| Pinkey Kavar Bika | Data and machine learning project development |
-| Moin Sheikh | Data and machine learning project development |
+
+
+Nasrin Khatoon -
+Pinkey Kavar Bika -
+Moin Sheikh -
 
 ---
 
