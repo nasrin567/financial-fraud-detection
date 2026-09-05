@@ -574,9 +574,9 @@ Potential improvements include:
 
 
 
-Nasrin Khatoon -
-Pinkey Kavar Bika -
-Moin Sheikh -
+Nasrin Khatoon - https://github.com/nasrin567 
+Pinkey Kavar Bika - https://github.com/pinkey-kavar-bika 
+Moin Sheikh - https://github.com/sheikhmoin-09
 
 ---
 
