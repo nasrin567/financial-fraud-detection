@@ -1,5 +1,13 @@
 # 💳 Financial Fraud Detection and Risk Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn)
+![Joblib](https://img.shields.io/badge/Joblib-Model%20Persistence-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter)
+
 A machine learning-based application for detecting potentially fraudulent financial transactions and analyzing transaction risk through an interactive Streamlit dashboard.
 
 The project covers the complete machine learning workflow, including data understanding, data cleaning, exploratory data analysis (EDA), feature engineering, preprocessing, model training, model evaluation, and interactive deployment.
