@@ -1,12 +1,13 @@
 
-## 🌐 Live Demo
+## 2. 🚀 Dashboard Demo
 
-### 🚀 Streamlit Application
+### 🌐 Live Dashboard
 
-**Live App:** https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/
-https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/
-
-> The live application is deployed using Streamlit Community Cloud.
+<p align="center">
+  <a href="https://financial-fraud-detection-b9qhgkecxc7cm89pla4tj.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard">
+  </a>
+</p>
 
 # 💳 Financial Fraud Detection and Risk Analysis
 
