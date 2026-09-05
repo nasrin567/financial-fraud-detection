@@ -9,29 +9,6 @@
 
 > A machine learning-based fraud detection system that analyzes financial transactions and provides an interactive risk prediction dashboard using Streamlit.
 
----
-
-## 📑 Table of Contents
-
-- [🌐 Live Demo](#-live-demo)
-- [📌 Project Overview](#-project-overview)
-- [🎯 Project Objectives](#-project-objectives)
-- [✨ Key Features](#-key-features)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [🔄 Machine Learning Workflow](#-machine-learning-workflow)
-- [📊 Dataset](#-dataset)
-- [⚙️ Feature Engineering](#️-feature-engineering)
-- [🔧 Data Preprocessing](#-data-preprocessing)
-- [🤖 Machine Learning Models](#-machine-learning-models)
-- [📈 Model Evaluation](#-model-evaluation)
-- [🖥️ Streamlit Application](#️-streamlit-application)
-- [📸 Dashboard Preview](#-dashboard-preview)
-- [📁 Project Structure](#-project-structure)
-- [💻 Run Locally](#-run-locally)
-- [⚠️ Known Limitations](#️-known-limitations)
-- [🔮 Future Improvements](#-future-improvements)
-- [👥 Contributors](#-contributors)
-- [📄 License](#-license)
 
 ---
 
