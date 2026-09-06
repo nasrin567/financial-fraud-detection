@@ -572,11 +572,10 @@ Potential improvements include:
 
 ## 👥 Contributors
 
+- Nasrin Khatoon - https://github.com/nasrin567
+- Pinkey Kavar Bika - https://github.com/pinkey-kavar-bika
+- Sheikh Moin - https://github.com/sheikhmoin-09
 
-
-Nasrin Khatoon - https://github.com/nasrin567 
-Pinkey Kavar Bika - https://github.com/pinkey-kavar-bika 
-Moin Sheikh - https://github.com/sheikhmoin-09
 
 ---
 
