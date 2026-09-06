@@ -359,7 +359,6 @@ It displays:
   <img src="images/fraud_prediction.png" alt="Fraud Prediction Interface" width="900">
 </p>
 
-
 The Fraud Prediction page allows users to enter transaction information.
 
 Input fields include:
@@ -397,7 +396,6 @@ Fraud Risk Result
 <p align="center">
   <img src="images/test_set_analysis.png" alt="Test Set Analysis" width="900">
 </p>
-
 This page presents the performance of the selected model on the held-out test dataset.
 
 It includes:
@@ -414,7 +412,6 @@ It includes:
 <p align="center">
   <img src="images/model_information.png" alt="Model Information" width="900">
 </p>
-
 
 This page explains:
 
