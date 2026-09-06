@@ -27,7 +27,6 @@ The project covers the complete machine learning workflow, including data unders
 - [📈 Model Evaluation](#-model-evaluation)
 - [⚠️ Known Limitations](#️-known-limitations)
 - [🖥️ Streamlit Application](#️-streamlit-application)
-- [📸 Dashboard Preview](#-dashboard-preview)
 - [📁 Project Structure](#-project-structure)
 - [💻 Technologies Used](#-technologies-used)
 - [🚀 Run Locally](#-run-locally)
