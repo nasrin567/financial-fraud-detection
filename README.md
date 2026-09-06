@@ -17,7 +17,7 @@ The project covers the complete machine learning workflow, including data unders
 ## 📑 Table of Contents
 
 - [📌 Project Overview](#-project-overview)
-- [🚀 Dashboard Demo](#-dashboard-demo)
+-  [🌐 Live Dashboard](#-live-dashboard)
 - [🎯 Project Objectives](#-project-objectives)
 - [📊 Dataset](#-dataset)
 - [🔄 Machine Learning Workflow](#-machine-learning-workflow)
