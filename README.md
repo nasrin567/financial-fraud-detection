@@ -12,7 +12,28 @@ A machine learning-based application for detecting potentially fraudulent financ
 
 The project covers the complete machine learning workflow, including data understanding, data cleaning, exploratory data analysis (EDA), feature engineering, preprocessing, model training, model evaluation, and interactive deployment.
 
+---
 
+## 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🚀 Dashboard Demo](#-dashboard-demo)
+- [🎯 Project Objectives](#-project-objectives)
+- [📊 Dataset](#-dataset)
+- [🔄 Machine Learning Workflow](#-machine-learning-workflow)
+- [⚙️ Feature Engineering](#️-feature-engineering)
+- [🔧 Data Preprocessing](#-data-preprocessing)
+- [🤖 Machine Learning Models](#-machine-learning-models)
+- [📈 Model Evaluation](#-model-evaluation)
+- [⚠️ Known Limitations](#️-known-limitations)
+- [🖥️ Streamlit Application](#️-streamlit-application)
+- [📸 Dashboard Preview](#-dashboard-preview)
+- [📁 Project Structure](#-project-structure)
+- [💻 Technologies Used](#-technologies-used)
+- [🚀 Run Locally](#-run-locally)
+- [🔮 Future Improvements](#-future-improvements)
+- [👥 Contributors](#-contributors)
+- [📄 License](#-license)
 ## 📌 Project Overview
 
 Financial fraud detection is an important classification problem where the objective is to identify transactions that may be fraudulent based on transaction, account, device, location, merchant, and user-behavior information.
@@ -304,6 +325,25 @@ The matrix includes:
 This helps analyze the types of classification errors made by the model.
 
 ---
+---
+
+## ⚠️ Known Limitations
+
+This project is developed for educational and demonstration purposes. The following limitations should be considered when interpreting the results:
+
+- **Model Performance:** The selected Logistic Regression model achieved an F1-Score of **0.3823** and ROC-AUC of **0.4922** on the test dataset. The results indicate that the current model has limited predictive performance.
+
+- **Synthetic Dataset:** The project uses a **synthetic financial transaction dataset**. Therefore, the dataset may not fully represent the complexity, patterns, and variability of real-world financial fraud.
+
+- **Generalization:** Model performance on this dataset may not generalize to real financial institutions or unseen real-world transaction patterns.
+
+- **Class Imbalance:** Fraud detection datasets can contain significant differences between legitimate and fraudulent transactions. Additional imbalance-handling techniques may be required for a production-level system.
+
+- **Production Readiness:** This application is intended for educational and demonstration purposes and should not be used as a real-world financial fraud detection system without further validation, security testing, monitoring, and regulatory considerations.
+
+- **Model Explainability:** The current implementation does not provide advanced model explainability techniques such as SHAP or LIME.
+
+- **Real-Time Monitoring:** The application does not currently include continuous real-time fraud monitoring, model drift detection, or automated model retraining.
 
 ## 🖥️ Streamlit Application
 
