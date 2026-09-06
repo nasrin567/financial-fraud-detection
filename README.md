@@ -428,14 +428,14 @@ This page explains:
 
 
 ---
-
 ## 📁 Project Structure
 
-```
+```text
 financial-fraud-detection/
 │
 ├── app.py
 ├── README.md
+├── LICENSE
 ├── requirements.txt
 ├── .gitignore
 │
@@ -451,19 +451,25 @@ financial-fraud-detection/
 │       ├── y_train.csv
 │       └── y_test.csv
 │
+├── images/
+│   ├── dashboard.png
+│   ├── fraud_prediction.png
+│   ├── test_set_analysis.png
+│   └── model_information.png
+│
 ├── models/
 │   ├── best_fraud_model.joblib
 │   └── preprocessor.joblib
 │
 └── notebooks/
-    ├── Data Understanding
-    ├── Data Cleaning & EDA
-    ├── Feature Engineering
-    ├── ML Preparation
-    ├── Model Training
-    └── Model Evaluation
-```
+    ├── Data Understanding.ipynb
+    ├── Data Cleaning & EDA.ipynb
+    ├── Feature Engineering.ipynb
+    ├── ML Preparation.ipynb
+    ├── Model Training.ipynb
+    └── Model Evaluation.ipynb
 
+```
 ---
 
 ## 💻 Technologies Used
