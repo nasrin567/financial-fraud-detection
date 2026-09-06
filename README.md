@@ -562,8 +562,13 @@ Potential improvements include:
 
 ---
 
-## 📄 License
+# 📄 License
 
-This project is intended for educational and project-development purposes.
+This project is licensed under the MIT License.
 
+---
+
+# ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
 
