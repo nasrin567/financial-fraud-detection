@@ -367,7 +367,7 @@ It displays:
   
 #### 2. 🔍 Fraud Prediction
 <p align="center">
-  <img src="images/prediction.png" alt="Fraud Prediction Interface" width="900">
+  <img src="images/fraud_prediction.png" alt="Fraud Prediction Interface" width="900">
 </p>
 
 
