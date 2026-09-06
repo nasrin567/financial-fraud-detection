@@ -352,6 +352,9 @@ The trained model and preprocessing pipeline are integrated into an interactive 
 ### Application Pages
 
 #### 1. 📊 Dashboard
+<p align="center">
+  <img src="images/dashboard.png" alt="Financial Fraud Detection Dashboard" width="900">
+</p>
 
 The Dashboard provides a high-level overview of the dataset.
 
@@ -362,8 +365,12 @@ It displays:
 - Legitimate transactions
 - Fraud rate
 - Transaction class distribution
-
+  
 #### 2. 🔍 Fraud Prediction
+<p align="center">
+  <img src="images/prediction.png" alt="Fraud Prediction Interface" width="900">
+</p>
+
 
 The Fraud Prediction page allows users to enter transaction information.
 
@@ -399,6 +406,9 @@ Fraud Risk Result
 ```
 
 #### 3. 📈 Test Set Analysis
+<p align="center">
+  <img src="images/test_set_analysis.png" alt="Test Set Analysis" width="900">
+</p>
 
 This page presents the performance of the selected model on the held-out test dataset.
 
@@ -413,6 +423,10 @@ It includes:
 - Prediction Breakdown
 
 #### 4. 🤖 Model Information
+<p align="center">
+  <img src="images/model_information.png" alt="Model Information" width="900">
+</p>
+
 
 This page explains:
 
@@ -424,19 +438,6 @@ This page explains:
 - Categorical features
 - Model features
 
----
-
-## 📸 Dashboard Preview
-
-| Dashboard | Fraud Risk Prediction |
-|---|---|
-| ![Dashboard](images/dashboard.png) | ![Prediction](images/prediction.png) |
-
-| Test Set Analysis | Model Information |
-|---|---|
-| ![Test Set Analysis](images/test_set_analysis.png) | ![Model Information](images/model_information.png) |
-
-> Add the corresponding screenshots to the `images/` folder before finalizing these image paths.
 
 ---
 
