@@ -325,7 +325,6 @@ The matrix includes:
 This helps analyze the types of classification errors made by the model.
 
 ---
----
 
 ## ⚠️ Known Limitations
 
