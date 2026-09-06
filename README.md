@@ -331,7 +331,7 @@ This helps analyze the types of classification errors made by the model.
 - **Production Readiness:** This application is for educational and demonstration purposes and is not production-ready.
 - **Explainability & Monitoring:** Advanced explainability, real-time monitoring, model drift detection, and automated retraining are not currently implemented.
 
-
+---
 ## 🖥️ Streamlit Application
 
 The trained model and preprocessing pipeline are integrated into an interactive Streamlit application.
