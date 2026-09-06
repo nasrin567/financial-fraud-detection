@@ -325,24 +325,14 @@ The matrix includes:
 This helps analyze the types of classification errors made by the model.
 
 ---
-
 ## ⚠️ Known Limitations
 
-This project is developed for educational and demonstration purposes. The following limitations should be considered when interpreting the results:
+- **Model Performance:** The selected Logistic Regression model achieved an F1-Score of **0.3823** and ROC-AUC of **0.4922**, indicating limited predictive performance.
+- **Synthetic Dataset:** The project uses synthetic data, which may not fully represent real-world financial fraud patterns.
+- **Generalization:** Results may not generalize to real financial institutions or unseen transaction patterns.
+- **Production Readiness:** This application is for educational and demonstration purposes and is not production-ready.
+- **Explainability & Monitoring:** Advanced explainability, real-time monitoring, model drift detection, and automated retraining are not currently implemented.
 
-- **Model Performance:** The selected Logistic Regression model achieved an F1-Score of **0.3823** and ROC-AUC of **0.4922** on the test dataset. The results indicate that the current model has limited predictive performance.
-
-- **Synthetic Dataset:** The project uses a **synthetic financial transaction dataset**. Therefore, the dataset may not fully represent the complexity, patterns, and variability of real-world financial fraud.
-
-- **Generalization:** Model performance on this dataset may not generalize to real financial institutions or unseen real-world transaction patterns.
-
-- **Class Imbalance:** Fraud detection datasets can contain significant differences between legitimate and fraudulent transactions. Additional imbalance-handling techniques may be required for a production-level system.
-
-- **Production Readiness:** This application is intended for educational and demonstration purposes and should not be used as a real-world financial fraud detection system without further validation, security testing, monitoring, and regulatory considerations.
-
-- **Model Explainability:** The current implementation does not provide advanced model explainability techniques such as SHAP or LIME.
-
-- **Real-Time Monitoring:** The application does not currently include continuous real-time fraud monitoring, model drift detection, or automated model retraining.
 
 ## 🖥️ Streamlit Application
 
