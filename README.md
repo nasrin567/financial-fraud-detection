@@ -47,9 +47,8 @@ The trained model is integrated into a Streamlit dashboard where users can enter
 
 ---
 
-##  🚀 Dashboard Demo
 
-### 🌐 Live Dashboard
+## 🌐 Live Dashboard
 
 <p align="center">
   <a href="https://financial-fraud-detection-b9qhgkecxc7cm89pla4tjl.streamlit.app/">
