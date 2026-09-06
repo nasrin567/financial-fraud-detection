@@ -503,53 +503,6 @@ The application will open in your browser.
 
 ---
 
-## 🌐 Live Demo
-
-**Streamlit App:** [LIVE_STREAMLIT_URL]
-
-*The live Streamlit URL will be added after deployment.*
-
----
-
-## ⚠️ Known Limitations
-
-The current implementation has several limitations that should be considered when interpreting the results.
-
-### Model Performance
-
-The current model has:
-
-- F1-Score: 0.3823
-- ROC-AUC: 0.4922
-- Accuracy: 0.4972
-
-The ROC-AUC is close to 0.50, indicating limited discrimination between the two classes on the current test data.
-
-Therefore, this implementation should be considered an educational/project prototype rather than a production-ready financial fraud detection system.
-
-### Synthetic Dataset
-
-The project uses a synthetic dataset. Its patterns may not represent the complexity and behavior of real-world financial transactions.
-
-### User Behavior Features
-
-User-level features are calculated from the available dataset. In a real production system, these features would require carefully designed historical transaction windows to avoid data leakage and to reflect information available at prediction time.
-
-### Further Validation
-
-A production fraud detection system would require:
-
-- Real-world validation data
-- Stronger cross-validation
-- Time-based validation
-- Model monitoring
-- Probability calibration
-- Threshold optimization
-- Careful treatment of class imbalance
-- Security and privacy controls
-
----
-
 ## 🔮 Future Improvements
 
 Potential improvements include:
